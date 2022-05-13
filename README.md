@@ -15,7 +15,7 @@
 
 [![Website](./img/globe-dark.svg)][shop]
 [![Twitter](./img/twitter-dark.svg)][twitter]
-[![Youtube](./img/youtube-dark.svg)][twitter]
+[![Youtube](./img/youtube-dark.svg)][youtube]
 
 [shop]: https://bit.ly/3FgylEn
 [twitter]: https://twitter.com/L1ghtex21
