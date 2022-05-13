@@ -13,10 +13,10 @@
 
 ### Connect/Contact me
 
-[![Website](./img/globe-dark.svg)][shop]<br/>
-[![Twitter](./img/twitter-dark.svg)][twitter]<br/>
-[![Youtube](./img/youtube-dark.svg)][youtube]<br/>
-[![Github](./img/github-dark.svg)][github]<br/>
+[![Website](./img/globe-dark.svg)][shop]᲼
+[![Twitter](./img/twitter-dark.svg)][twitter]᲼
+[![Youtube](./img/youtube-dark.svg)][youtube]᲼
+[![Github](./img/github-dark.svg)][github]᲼
 
 [shop]: https://bit.ly/3FgylEn
 [twitter]: https://twitter.com/L1ghtex21
