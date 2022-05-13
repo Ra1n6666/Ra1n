@@ -4,12 +4,12 @@
 
 ## I'm A Developer And A Business CEO.
 
-**- Check out my online [Script Shop][shop].
-- I'm cuurently learing HTML and CSS.
-- I'm looking to collaborate with other FiveM Developers.
-- 2022 Goals: Knowing HTML, CSS and Linux.
-- I want to be a Website Developer in the future.
-- Fun fact: I love Dirt Bikes**
+- **Check out my online [Script Shop][shop].**
+- **I'm cuurently learing HTML and CSS.**
+- **I'm looking to collaborate with other FiveM Developers.**
+- **2022 Goals: Knowing HTML, CSS and Linux.**
+- **I want to be a Website Developer in the future.**
+- **Fun fact: I love Dirt Bikes.**
 
 ### Connect/Contact me
 
