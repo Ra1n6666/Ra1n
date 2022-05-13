@@ -4,7 +4,7 @@
 
 ## I'm A Developer And A Business CEO.
 
-- Check out my online [script shop][shop].
+- Check out my online [Script Shop][shop].
 - I'm cuurently learing HTML and CSS.
 - I'm looking to collaborate with other FiveM Developers.
 - 2022 Goals: Knowing HTML, CSS and Linux.
@@ -16,6 +16,7 @@
 [![Website](./img/globe-dark.svg)][shop]
 [![Twitter](./img/twitter-dark.svg)][twitter]
 [![Youtube](./img/youtube-dark.svg)][youtube]
+[![Github](./img/github-dark.svg)][github]
 
 [shop]: https://bit.ly/3FgylEn
 [twitter]: https://twitter.com/L1ghtex21
