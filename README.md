@@ -2,13 +2,13 @@
 
 # Welcome to [Ra1n's Shop][shop]
 
-## I'm A Developer And A Business CEO.
+## I'm A Developer.
 
 - **Check out my online [Script Shop][shop].**
-- **I'm cuurently learing HTML and CSS.**
-- **I'm looking to collaborate with other FiveM Developers.**
-- **2022 Goals: Knowing HTML, CSS and Linux.**
-- **I want to be a Website Developer in the future.**
+- **I'm cuurently learing C++.**
+- **I'm looking to collaborate with other Developers.**
+- **2022 Goals: Knowing C++ and Linux.**
+- **I want to be a Software Developer in the future.**
 - **Fun fact: I love Dirt Bikes.**
 
 ### Connect/Contact me
