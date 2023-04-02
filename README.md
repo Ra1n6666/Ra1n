@@ -5,10 +5,10 @@
 ## I'm A Developer.
 
 - **Check out my online [Script Shop][shop].**
-- **I'm cuurently learing Python.**
+- **I'm cuurently learing C.**
 - **I'm looking to collaborate with other Developers.**
-- **2022 Goals: Knowing Python and Linux.**
-- **I want to be a Software Developer in the future.**
+- **2023 Goals: Advancing in C.**
+- **I want to be a Cyber Security Expert in the future.**
 - **Fun fact: I love Dirt Bikes.**
 
 ### Connect/Contact me
