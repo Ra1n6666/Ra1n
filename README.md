@@ -5,7 +5,7 @@
 ## I'm A Developer.
 
 - **Check out my online [Script Shop][shop].**
-- **I'm cuurently learing C.**
+- **I'm cuurently learning C.**
 - **I'm looking to collaborate with other Developers.**
 - **2023 Goals: Advancing in C.**
 - **I want to be a Cyber Security Expert in the future.**
