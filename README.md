@@ -5,20 +5,8 @@
 ## I'm A Developer.
 
 - **Check out my online [Script Shop][shop].**
-- **I'm cuurently learning C.**
+- **I'm cuurently learning Frontend Develpment with NextJS.**
 - **I'm looking to collaborate with other Developers.**
-- **2023 Goals: Advancing in C.**
+- **2024 Goals: Advancing in Frontend development.**
 - **I want to be a Cyber Security Expert in the future.**
 - **Fun fact: I love Dirt Bikes.**
-
-### Connect/Contact me
-
-[![Website](./img/globe-dark.svg)][shop]᲼
-[![Twitter](./img/twitter-dark.svg)][twitter]᲼
-[![Youtube](./img/youtube-dark.svg)][youtube]᲼
-[![Github](./img/github-dark.svg)][github]᲼
-
-[shop]: https://bit.ly/3FgylEn
-[twitter]: https://twitter.com/L1ghtex21
-[github]: https://github.com/Ra1n6666?tab=repositories
-[youtube]: https://www.youtube.com/channel/UC8EsPwHSKYxk4l59pnPd96g
